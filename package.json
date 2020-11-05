@@ -1,0 +1,12 @@
+{
+  "name": "mimicker",
+  "version": "1.0.0",
+  "description": "A simple 'quote bot' style Twitter bot running on AWS Lambda.",
+  "main": "index.js",
+  "author": "Chris Lewis",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twitter-lite": "^0.14.0"
+  }
+}
